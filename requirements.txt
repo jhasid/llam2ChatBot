@@ -1,0 +1,5 @@
+ctransformers==0.2.5   #to load quantized model to run on cpu as we are using langchain and not cpp library
+sentence-transformers==2.2.2    #free embedding generation library to be used from Hugging face
+pinecone-client    #to use vector DB
+langchain==0.0.225
+flask
