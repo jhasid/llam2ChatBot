@@ -17,5 +17,6 @@
      PINECONE_API_ENV="XXXXXXXXXXX"
 3. create a template.py file for creating folders and files
 4. run python template.py     
-
+5. setup.py is required to make src folder as local package (as it is not present in venv )
+   all the folders inside src can be used in other file using from src import filename.methodname
 

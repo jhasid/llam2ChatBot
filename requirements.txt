@@ -4,3 +4,4 @@ pinecone-client    #to use vector DB
 langchain==0.0.225
 flask
 pypdf
+-e .   #executes setup.py file  
