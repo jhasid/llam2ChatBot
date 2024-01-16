@@ -15,5 +15,7 @@
 
      PINECONE_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXX"
      PINECONE_API_ENV="XXXXXXXXXXX"
+3. create a template.py file for creating folders and files
+4. run python template.py     
 
 
