@@ -3,3 +3,4 @@ sentence-transformers==2.2.2    #free embedding generation library to be used fr
 pinecone-client    #to use vector DB
 langchain==0.0.225
 flask
+pypdf
