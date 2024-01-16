@@ -5,3 +5,4 @@ langchain==0.0.225
 flask
 pypdf
 -e .   #executes setup.py file  
+python-dotenv     # python package to read .env file
