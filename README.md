@@ -3,7 +3,7 @@
 ## Steps to run using notebook
 
 1. conda create -n venv python=3.8 -y
-2. conda activate venv
+2. conda activate venv   #c:\users\sijha\anaconda3\envs\venv
 3. conda env list
 4. pip install -r requirements.txt
 5. pinecone api_key and index env
